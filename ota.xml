@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <RomName>AOSP_Extended</RomName> <!-- Название прошивки -->
+  <VersionName>AEX_4.2</VersionName> <!-- Версия прошивки и её название при скачивании, без пробелов -->
+  <VersionNumber type="integer">20170515</VersionNumber> <!-- Версия прошивки для ota, в новой версии ставить версию больше 20160203 -->
+  <DirectUrl>https://cloclo28.cldmail.ru/2b8iQ52DEQ8a2rqGHZEY/G/JGaT/i4JyZdLjc?key=6e805eb7aedde641dddabbc2585ff82b2606ac0f</DirectUrl> <!-- Прямая ссылка на файл, для скачивания, лучше использовать прямую -->
+  <HttpUrl>https://cloclo28.cldmail.ru/2b8iQ52DEQ8a2rqGHZEY/G/JGaT/i4JyZdLjc?key=6e805eb7aedde641dddabbc2585ff82b2606ac0f</HttpUrl> <!-- Ссылка на файл, для скачивания через браузер, лучше использовать прямую -->
+  <Android>7.1.2</Android> <!-- Версия android, смотреть в buld.prop или настройках прошивки -->
+  <CheckMD5>89daf54aacc60edf85a1c87b8ef4ed79</CheckMD5> <!-- Контрольный md5 размер файла, для сравнения, полноценности скачаного файла -->
+  <FileSize type="integer">424213792</FileSize>  <!-- Размер скачиваемого файла, в байтах -->
+  <Developer>Lunik</Developer> <!-- Ник, имя разработчика'ов -->
+  <Website nil="http://l-rom.ru" /> <!-- Web сайт прошивки или чего нибудь другого, на усмотрение -->
+  <DonateURL>https://money.yandex.ru/to/410014048608604?_openstat=template%3Bipulldown%3Btopupme</DonateURL> <!-- Ссылка для установки реквезитов для пожертвований -->
+  <Changelog>### Изменения версии 13.05.17
+* Добавили "Дополнительные настройки"
+* Новая "Бутанимация от L-ROM.RU"
+* Обновлена ревизия на r_8
+* Обновлена "Система безопасности" Android от 2017-05-05
+* Полный перевод на Русский
+* Обновлена ревизия на r_8
+* Включены обновления по воздуху</Changelog> <!-- Список изменений, новой версии прошивки, пишем что нужно -->
+</ROM>
