@@ -3,8 +3,8 @@
   <RomName>AOSP_Extended</RomName> <!-- Название прошивки -->
   <VersionName>AEX_4.2</VersionName> <!-- Версия прошивки и её название при скачивании, без пробелов -->
   <VersionNumber type="integer">20170515</VersionNumber> <!-- Версия прошивки для ota, в новой версии ставить версию больше 20160203 -->
-  <DirectUrl>https://cloclo37.cldmail.ru/2zA1b6wjnYdX7xybsFv3/G/2SUT/99ywiAmQf?key=3a51f9378718b9d6373e2ad6186721ee116e4438</DirectUrl> <!-- Прямая ссылка на файл, для скачивания, лучше использовать прямую -->
-  <HttpUrl>https://cloclo37.cldmail.ru/2zA1b6wjnYdX7xybsFv3/G/2SUT/99ywiAmQf?key=3a51f9378718b9d6373e2ad6186721ee116e4438</HttpUrl> <!-- Ссылка на файл, для скачивания через браузер, лучше использовать прямую -->
+  <DirectUrl>https://cloclo27.cldmail.ru/8zfNAWhg5vgLrRR3rJY/G/2SUT/99ywiAmQf?key=e1808de9fc0f2f1f96851f9f509b3127e5220b4a</DirectUrl> <!-- Прямая ссылка на файл, для скачивания, лучше использовать прямую -->
+  <HttpUrl>https://cloclo27.cldmail.ru/8zfNAWhg5vgLrRR3rJY/G/2SUT/99ywiAmQf?key=e1808de9fc0f2f1f96851f9f509b3127e5220b4a</HttpUrl> <!-- Ссылка на файл, для скачивания через браузер, лучше использовать прямую -->
   <Android>7.1.2</Android> <!-- Версия android, смотреть в buld.prop или настройках прошивки -->
   <CheckMD5>89daf54aacc60edf85a1c87b8ef4ed79</CheckMD5> <!-- Контрольный md5 размер файла, для сравнения, полноценности скачаного файла -->
   <FileSize type="integer">424213792</FileSize>  <!-- Размер скачиваемого файла, в байтах -->
